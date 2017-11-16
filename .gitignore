@@ -1,0 +1,11 @@
+*pyc
+*db
+staticmanifest.json
+/log
+.python-version
+.idea
+/oms/settings.py
+/oms/migrations
+/.vscode
+/env
+/celerybeat*
